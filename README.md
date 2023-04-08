@@ -21,7 +21,7 @@ kotlin, java based on **Junit5**
   - 우측 코끼리 (gradle) -> Dependencies -> testCompileClasspath -> junit5 의존 확인
 <img width="1714" alt="스크린샷 2023-04-08 오후 9 52 21" src="https://user-images.githubusercontent.com/88091704/230722193-72635c2a-6e60-4121-8d00-2df046c07032.png">
 
-  - java based gradle
+  - groovy based gradle
 <img width="1725" alt="스크린샷 2023-04-08 오후 10 03 01" src="https://user-images.githubusercontent.com/88091704/230722617-18337bea-95eb-460e-adb9-96de614dd822.png">
 
 
